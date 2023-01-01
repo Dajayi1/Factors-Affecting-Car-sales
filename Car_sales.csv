@@ -1,0 +1,17 @@
+Field Name,Data type
+Manufacturer,String
+Model,String
+Sales in thousands,Numeric
+__Year_Resale_Value,Numeric
+Vehicle type,String
+Price in thousands,Numeric
+Engine size,Numeric
+Horsepower,Numeric
+Wheelbase,Numeric
+Width,Numeric
+Length,Numeric
+Curb weight,Numeric
+Fuel capacity,Numeric
+Fuel efficiency,Numeric
+Latest Launch,Date
+Power perf factor,Numeric
